@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: springappcontainer
-        image: ivenkataramana/employee-blog
+        image: ivenkataramana/volumedemo
         ports:
         - containerPort: 8080
 ---
